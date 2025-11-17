@@ -98,7 +98,7 @@ class Demo {
          System.out.println();
          System.out.println();
          System.out.println("+------------------+-------------+");
-	 System.out.println("|      Value       |      No     |");      
+	     System.out.println("|      Value       |      No     |");      
          System.out.println("+------------------+-------------+");
          int x,y,z;
          y=0;
